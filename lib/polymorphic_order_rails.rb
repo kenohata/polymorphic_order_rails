@@ -1,0 +1,2 @@
+module PolymorphicOrderRails
+end
